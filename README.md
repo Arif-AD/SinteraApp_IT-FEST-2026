@@ -87,21 +87,21 @@ Sintera aims to encourage environmentally responsible behavior, optimize resourc
 
 | Feature | Description |
 |---|---|
-| Waste Management | Manage and organize community waste activities |
-| Waste Collection | Support community-based waste collection |
+| Waste Management | Manage and organize waste management activities |
+| Waste Collection | Support waste collection and processing |
 | Waste Classification | Organize waste based on its category |
-| Community Participation | Encourage users to participate in sustainable activities |
+| Waste Contribution | Encourage users to contribute recyclable waste |
 
 ---
 
-### Community & Sharing
+### Product Sharing
 
 | Feature | Description |
 |---|---|
-| Community Sharing | Enable users to share resources and goods |
-| Local Community | Connect users with their surrounding community |
-| Resource Utilization | Encourage better utilization of available resources |
-| Social Participation | Promote community involvement in sustainability |
+| Product Sharing | Allow users to share products with other residents |
+| Product Listing | Create and manage products available for sharing |
+| Product Discovery | Browse products shared by other residents |
+| Sharing Management | Manage shared product activities |
 
 ---
 
@@ -109,8 +109,8 @@ Sintera aims to encourage environmentally responsible behavior, optimize resourc
 
 | Feature | Description |
 |---|---|
-| Points | Reward users for sustainable activities |
-| Activity Rewards | Provide rewards for participating in environmental activities |
+| Points | Reward users for participating in sustainable activities |
+| Activity Rewards | Provide rewards for environmentally friendly activities |
 | User Incentives | Encourage users to maintain sustainable habits |
 
 ---
