@@ -40,13 +40,38 @@ Sintera aims to encourage environmentally responsible behavior, optimize resourc
 
 ## Project Preview
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; overflow-x: auto;">
 
   <img
     src="./documentation/sintera1.png"
-    alt="Sintera Preview"
+    alt="Sintera Preview 1"
     height="400"
   />
+
+  <img
+    src="./documentation/sintera2.png"
+    alt="Sintera Preview 2"
+    height="400"
+  />
+
+  <img
+    src="./documentation/sintera3.png"
+    alt="Sintera Preview 3"
+    height="400"
+  />
+
+  <img
+    src="./documentation/sintera4.png"
+    alt="Sintera Preview 4"
+    height="400"
+  />
+
+  <img
+    src="./documentation/sintera5.png"
+    alt="Sintera Preview 5"
+    height="400"
+  />
+
 </div>
 
 ---
